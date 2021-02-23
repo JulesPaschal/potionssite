@@ -1,0 +1,24 @@
+
+
+
+    body,html{font-size: 18px; background-color: #402A35; 
+        font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif; 
+        text-align: center;}
+    p {color: #C4B24C}
+    h1,h2 {font-size:30px}
+    h1 {color: #786E44}
+    h3 {font-size: 24px; color:#E3C84A }
+    h2 {color:#E3C84A}
+    a {text-decoration:  none;
+        color: #C08F46}
+    }
+    
+    a:hover{text-decoration: underline;
+            color: #786E44}
+
+    a#schedule-button{text-decoration:none;  color: #786E44; background-color: #E3C84A; font-size: 24px;
+        padding: 5px 20px; border: 1px solid #fff; width: 180px; text-align:center;}
+    a#schedule-button:hover{color: #402A35; background-color:#C08F46;
+        border: 1px solid #fff;}
+
+
